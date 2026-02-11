@@ -1,1 +1,1 @@
-console.log("hello world, this is a workshop")
+console.log("hello world, this is my workshop")
